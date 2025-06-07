@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/fluent-ci-templates/.github@main/assets/images/space_scene_space_landmarks_cartoon_style_--ar_169_43d35fd5-64f8-43f9-82e0-a208a3a7e1a3_2.png" alt="Space Scene Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dera2Salles 🇲🇬</h1>
+<h1 align="center">Hi 👋, I'm Dera De Salles 🇲🇬</h1>
 <h3 align="center">Crafting software with purpose and elegance.</h3>
 
 ---
