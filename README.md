@@ -5,13 +5,13 @@
 
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Dera2Salles 🇲🇬</h1>
-<h3 align="center">I enjoy building beautiful, efficient, and user-friendly tools.</h3>
+<h3 align="center">Crafting software with purpose and elegance.</h3>
 
 <br />
 
 <!-- GitQuest or any badge -->
 <p align="center">
-  <a href="https://gitquest.dev/player/yourusername" target="_blank">
+  <a href="https://gitquest.dev/player/Dera2Salles" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://gitquest.dev/api/badges?type=ranking&rank=2&theme=dark">
       <img src="https://gitquest.dev/api/badges?type=ranking&rank=2&theme=light" alt="GitQuest Badge" style="border-radius: 11px;" />
@@ -25,7 +25,7 @@
 - 🔭 I’m currently exploring creative ways to **simplify development workflows**  
 - 🌱 Constantly learning and experimenting with **new languages, frameworks, and platforms**  
 - 🧠 Passionate about **developer tools**, **automation**, and **clean design**
-- 💬 Ask me about **JavaScript, Rust, React, Linux, Automation**
+- 💬 Ask me about **JavaScript, Dart, React, Linux, c++**
 - 📫 Reach me at: **dera.ah.14@gmail.com**
 
 <!-- Logos / Tools -->
@@ -43,12 +43,11 @@
 
 <!-- OS / Platform badges -->
 <p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromeOS-3d89fc?logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white" />
+ 
 </p>
 
 <!-- Footer -->
