@@ -25,7 +25,7 @@
 - 🛠️ **Tech stack**: Node.js, Express.js, MySQL, MongoDB, Flutter, Dart, Tailwind CSS, React
 - 🌱 **Learning**: Backend architecture, UI/UX design, and cross-platform development
 - 💬 **Ask me about**: JavaScript, APIs, mobile development with Flutter, and database design
-- 📫 **Reach me at**: [your.email@example.com](mailto:dera.ah.14@gmail.com)
+- 📫 **Reach me at**: [dera.ah.14@gmail.com](mailto:dera.ah.14@gmail.com)
 - ⚡ **Fun fact**: I love blending creativity with code to create user-friendly experiences!
 
 ---
