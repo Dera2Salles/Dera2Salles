@@ -67,8 +67,4 @@
 <p align="center">
   <em>“Make it simple, but significant.”</em>
 </p>
-<p align="center">
-  <a href="https://github.com/Dera2Salles" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+
