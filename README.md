@@ -17,10 +17,13 @@
     </picture>
   </a>
 </p>
+
 ---
+## About me
 - 🌱 **Learning**: always
 - 📫 **Reach me at**: [dera.ah.14@gmail.com](mailto:dera.ah.14@gmail.com)
 - ⚡ **Fun fact**:  I debug like it’s an exorcism!
+  
 ---
 ## 🛠️ Tech stack:
 <p align="center">
@@ -40,11 +43,6 @@
 </p>
 
 ---
-
-
-
----
-
 <!-- Footer -->
 <p align="center">
   <em>“Made with ❤️ ”</em>
