@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dera De Salles 🇲🇬</h1>
-<h3 align="center">Crafting software with purpose and elegance.</h3>
+<h3 align="center">🌠 "Debugging is like navigating a black hole—patience fuels the escape velocity."</h3>
 
 ---
 
@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="100" />
   <!-- Styling -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
   <!-- Databases -->
@@ -65,6 +66,6 @@
 
 <!-- Footer -->
 <p align="center">
-  <em>“Make it simple, but significant.”</em>
+  <em>“Made with ❤️ ”</em>
 </p>
 
