@@ -17,20 +17,12 @@
     </picture>
   </a>
 </p>
-
 ---
-
-## About Me
-- 🔭 **Currently working on**: Building intuitive tools and web/mobile applications
-- 🛠️ **Tech stack**: Node.js, Express.js, MySQL, MongoDB, Flutter, Dart, Tailwind CSS, React
-- 🌱 **Learning**: Backend architecture, UI/UX design, and cross-platform development
-- 💬 **Ask me about**: JavaScript, APIs, mobile development with Flutter, and database design
+- 🌱 **Learning**: always
 - 📫 **Reach me at**: [dera.ah.14@gmail.com](mailto:dera.ah.14@gmail.com)
-- ⚡ **Fun fact**: I love blending creativity with code to create user-friendly experiences!
-
+- ⚡ **Fun fact**:  I debug like it’s an exorcism!
 ---
-
-## Tools & Technologies
+## 🛠️ Tech stack:
 <p align="center">
   <!-- Programming Languages -->
   <!-- Frameworks -->
