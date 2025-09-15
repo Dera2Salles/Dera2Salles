@@ -4,9 +4,6 @@
 </p>
 
 <h1 align="center">Welcome 👋 🇲🇬</h1>
-<h3 align="center">🌠 "User data."</h3>
-
-
 ```json
 {
   "name": "DERANDRAINY",
@@ -30,7 +27,7 @@
 }
 
 
----
+---------
 
 <!-- GitQuest Badge -->
 <p align="center">
