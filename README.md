@@ -47,3 +47,35 @@
   <em>“Made with ❤️ ”</em>
 </p>
 
+
+# 👋 Bienvenue
+
+```json
+{
+  "name": "Ton Nom",
+  "username": "ton-username",
+  "location": "🌍 Madagascar",
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "Python",
+    "Docker",
+    "NestJS",
+    "Spring Boot"
+  ],
+  "currently_learning": [
+    "Clean Architecture",
+    "Kubernetes",
+    "DevOps"
+  ],
+  "projects": {
+    "website": "https://ton-site.com",
+    "portfolio": "https://ton-portfolio.com"
+  },
+  "contact": {
+    "email": "ton.email@example.com",
+    "linkedin": "https://linkedin.com/in/tonprofil",
+    "github": "https://github.com/ton-username"
+  }
+}
