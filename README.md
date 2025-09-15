@@ -3,8 +3,32 @@
   <img src="https://cdn.jsdelivr.net/gh/fluent-ci-templates/.github@main/assets/images/space_scene_space_landmarks_cartoon_style_--ar_169_43d35fd5-64f8-43f9-82e0-a208a3a7e1a3_2.png" alt="Space Scene Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dera De Salles 🇲🇬</h1>
-<h3 align="center">🌠 "Debugging is like navigating a black hole—patience fuels the escape velocity."</h3>
+<h1 align="center">Welcome 👋 🇲🇬</h1>
+<h3 align="center">🌠 "User data."</h3>
+
+
+```json
+{
+  "name": "DERANDRAINY",
+  "lastname" : "Marie Martinot De Salles"
+  "username": "Dera2S",
+  "skills": [
+    "TypeScript",
+    "Dart",
+    "NestJS",
+    "Flutter",
+    "React"
+  ],
+  "currently_learning": [
+    "Clean Architecture",
+    "Kubernetes",
+    "DevOps"
+  ],
+  "contact": {
+    "email": "dera.ah.14@gmail.com"    "github":"https://github.com/Dera2Salles"
+  }
+}
+
 
 ---
 
@@ -48,34 +72,4 @@
 </p>
 
 
-# 👋 Bienvenue
 
-```json
-{
-  "name": "Ton Nom",
-  "username": "ton-username",
-  "location": "🌍 Madagascar",
-  "skills": [
-    "JavaScript",
-    "TypeScript",
-    "Java",
-    "Python",
-    "Docker",
-    "NestJS",
-    "Spring Boot"
-  ],
-  "currently_learning": [
-    "Clean Architecture",
-    "Kubernetes",
-    "DevOps"
-  ],
-  "projects": {
-    "website": "https://ton-site.com",
-    "portfolio": "https://ton-portfolio.com"
-  },
-  "contact": {
-    "email": "ton.email@example.com",
-    "linkedin": "https://linkedin.com/in/tonprofil",
-    "github": "https://github.com/ton-username"
-  }
-}
