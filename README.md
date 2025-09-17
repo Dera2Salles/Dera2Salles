@@ -23,7 +23,8 @@
     "DevOps"
   ],
   "contact": {
-    "email": "dera.ah.14@gmail.com" , "github":"https://github.com/Dera2Salles"
+    "email": "dera.ah.14@gmail.com" ,
+    "github": "https://github.com/Dera2Salles"
   }
 }
 ```
