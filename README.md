@@ -8,8 +8,8 @@
 ```json
 {
   "name": "DERANDRAINY",
-  "lastname" : "Marie Martinot De Salles"
-  "username": "Dera2S",
+  "lastName" : "Marie Martinot De Salles"
+  "userName": "Dera2S",
   "skills": [
     "TypeScript",
     "Dart",
@@ -17,7 +17,7 @@
     "Flutter",
     "React"
   ],
-  "currently_learning": [
+  "currentlyLearning": [
     "Clean Architecture",
     "Kubernetes",
     "DevOps"
