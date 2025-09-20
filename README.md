@@ -27,13 +27,11 @@
 
 ---------
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub Snake" src="dist/github-snake.svg" />
-</picture>
 
-![Snake GIF](dist/github-snake.gif)
+[![George's github stats](https://github-readme-stats.vercel.app/api?username=Dera2Salles&show_icons=true&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dera2Salles&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 ## About me
@@ -59,6 +57,13 @@
 </p>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dera2Salles/Dera2Salles/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dera2Salles/Dera2Salles/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+---
+
 <!-- Footer -->
 <p align="center">
   <em>“Made with ❤️ ”</em>
