@@ -27,8 +27,13 @@
 
 ---------
 
-<!-- GitQuest Badge -->
-![GitHub Contributions](https://raw.githubusercontent.com/Dera2Salles/Dera2Salles/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub Snake" src="dist/github-snake.svg" />
+</picture>
+
+![Snake GIF](dist/github-snake.gif)
 
 ---
 ## About me
