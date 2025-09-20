@@ -28,14 +28,7 @@
 ---------
 
 <!-- GitQuest Badge -->
-<p align="center">
-  <a href="https://gitquest.dev/player/Dera2Salles" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://gitquest.dev/api/badges?type=ranking&rank=2&theme=dark">
-      <img src="https://gitquest.dev/api/badges?type=ranking&rank=2&theme=light" alt="GitQuest Ranking Badge" style="border-radius: 11px;" />
-    </picture>
-  </a>
-</p>
+![GitHub Contributions](https://raw.githubusercontent.com/Dera2Salles/Dera2Salles/output/github-contribution-grid-snake.svg)
 
 ---
 ## About me
