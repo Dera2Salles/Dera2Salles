@@ -26,13 +26,15 @@
 ```
 
 ---------
+<div align="center">
 
 
 [![George's github stats](https://github-readme-stats.vercel.app/api?username=Dera2Salles&show_icons=true&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dera2Salles&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
+  
 ---
 ## About me
 - 🌱 **Learning**: always
@@ -49,19 +51,11 @@
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" />
   <!-- Styling -->
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="MySQL" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+
 </p>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dera2Salles/Dera2Salles/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dera2Salles/Dera2Salles/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 ---
 
 <!-- Footer -->
