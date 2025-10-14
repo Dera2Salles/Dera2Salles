@@ -9,7 +9,7 @@
 {
   "name": "DERANDRAINY",
   "lastName" : "Marie Martinot De Salles"
-  "userName": "Dera2S",
+  "nickName": "Dera2Salles",
   "skills": [
     "TypeScript",
     "Dart",
