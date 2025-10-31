@@ -5,10 +5,6 @@
 
 <h1 align="center">Welcome 👋</h1>
 
-[![committers.top badge](https://user-badge.committers.top/madagascar/Dera2Salles.svg)](https://user-badge.committers.top/madagascar/Dera2Salles)
-
-
-
 ```json
 {
   "name": "DERANDRAINY",
