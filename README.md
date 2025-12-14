@@ -16,7 +16,7 @@
     "Flutter",
     "React"
   ],
-  "codingStyle": "Object Oriented
+  "codingStyle": "Object Oriented",
    "Pattern" : "Feature first and clean archi"
   ],
 }
