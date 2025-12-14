@@ -17,8 +17,7 @@
     "React"
   ],
   "codingStyle": "Object Oriented",
-   "Pattern" : "Feature first and clean archicture",
-  ],
+   "Pattern" : "Feature first and clean archicture"
 }
 ```
 
