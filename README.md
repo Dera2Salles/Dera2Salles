@@ -8,7 +8,7 @@
 ```json
 {
   "name": "DERANDRAINY",
-  "lastName" : "Marie Martinot De Salles"
+  "lastName": "Marie Martinot De Salles"
   "nickName": "Dera2Salles",
   "skills": [
     "Laravel",
@@ -17,7 +17,7 @@
     "React"
   ],
   "codingStyle": "Object Oriented",
-   "patternStyle" : "Feature first and clean archicture"
+  "patternStyle": "Feature first and clean archicture"
 }
 ```
 
