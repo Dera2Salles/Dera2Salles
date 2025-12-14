@@ -11,16 +11,13 @@
   "lastName" : "Marie Martinot De Salles"
   "nickName": "Dera2Salles",
   "skills": [
-    "TypeScript",
-    "Dart",
+    "Laravel",
     "NestJS",
     "Flutter",
     "React"
   ],
-  "currentlyLearning": [
-    "Clean Architecture",
-    "Kubernetes",
-    "DevOps"
+  "codingStyle": "Object Oriented
+   "Pattern" : "Feature first and clean archi"
   ],
 }
 ```
