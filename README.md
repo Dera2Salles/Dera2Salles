@@ -33,6 +33,7 @@
 </a>
 </p>
 </div>
+
   
 ---
 ## About me
@@ -58,6 +59,9 @@
 </p>
 
 </p>
+![committers.top badge](https://user-badge.committers.top/madagascar/Dera2Salles.svg)
+![committers.top badge](https://user-badge.committers.top/madagascar_public/Dera2Salles.svg)
+
 
 ---
 
