@@ -98,5 +98,5 @@
 
 <!-- ── Footer ── -->
 <div align="center">
-  <sub><em>Made with ❤️ · Catppuccin Mocha × Samsung One UI</em></sub>
+  <sub><em>Made with ❤️ ·</em></sub>
 </div>
